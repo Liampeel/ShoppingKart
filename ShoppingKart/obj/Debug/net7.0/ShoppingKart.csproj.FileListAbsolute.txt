@@ -1,0 +1,15 @@
+/Users/liampeel/Documents/Exercises/ShoppingKart/ShoppingKart/bin/Debug/net7.0/ShoppingKart
+/Users/liampeel/Documents/Exercises/ShoppingKart/ShoppingKart/bin/Debug/net7.0/ShoppingKart.deps.json
+/Users/liampeel/Documents/Exercises/ShoppingKart/ShoppingKart/bin/Debug/net7.0/ShoppingKart.runtimeconfig.json
+/Users/liampeel/Documents/Exercises/ShoppingKart/ShoppingKart/bin/Debug/net7.0/ShoppingKart.dll
+/Users/liampeel/Documents/Exercises/ShoppingKart/ShoppingKart/bin/Debug/net7.0/ShoppingKart.pdb
+/Users/liampeel/Documents/Exercises/ShoppingKart/ShoppingKart/obj/Debug/net7.0/ShoppingKart.csproj.AssemblyReference.cache
+/Users/liampeel/Documents/Exercises/ShoppingKart/ShoppingKart/obj/Debug/net7.0/ShoppingKart.GeneratedMSBuildEditorConfig.editorconfig
+/Users/liampeel/Documents/Exercises/ShoppingKart/ShoppingKart/obj/Debug/net7.0/ShoppingKart.AssemblyInfoInputs.cache
+/Users/liampeel/Documents/Exercises/ShoppingKart/ShoppingKart/obj/Debug/net7.0/ShoppingKart.AssemblyInfo.cs
+/Users/liampeel/Documents/Exercises/ShoppingKart/ShoppingKart/obj/Debug/net7.0/ShoppingKart.csproj.CoreCompileInputs.cache
+/Users/liampeel/Documents/Exercises/ShoppingKart/ShoppingKart/obj/Debug/net7.0/ShoppingKart.dll
+/Users/liampeel/Documents/Exercises/ShoppingKart/ShoppingKart/obj/Debug/net7.0/refint/ShoppingKart.dll
+/Users/liampeel/Documents/Exercises/ShoppingKart/ShoppingKart/obj/Debug/net7.0/ShoppingKart.pdb
+/Users/liampeel/Documents/Exercises/ShoppingKart/ShoppingKart/obj/Debug/net7.0/ShoppingKart.genruntimeconfig.cache
+/Users/liampeel/Documents/Exercises/ShoppingKart/ShoppingKart/obj/Debug/net7.0/ref/ShoppingKart.dll
